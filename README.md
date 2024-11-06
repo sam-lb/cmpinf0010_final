@@ -2,7 +2,7 @@ team name
 
 team members
 Sam Brunacini (slb197@pitt.edu)
-Sid Rajesh ()
+Sid Rajesh (str114@pitt.edu)
 
 Datasets
 1. Dataset 1
