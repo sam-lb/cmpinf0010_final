@@ -11,7 +11,7 @@ Sid Rajesh (str114@pitt.edu)
 Bestness metric: Safety
 - Submetric 1: Major crime rate (Sam)
 - Submetric 2: Covid impact by neighborhood (Sid)
-- Submetric 3: Covid vaccination rate
+- Submetric 3: Covid vaccination rate (Sam)
 
 ## Datasets
 1. Dataset 1: Major Crimes. [https://data.wprdc.org/dataset/a-community-profile-of-pittsburgh-neighborhoods-1974](https://data.wprdc.org/dataset/a-community-profile-of-pittsburgh-neighborhoods-1974). This dataset gives information by neighborhood about major crimes (assault, murder, robbery).
